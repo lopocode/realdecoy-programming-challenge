@@ -1,0 +1,26 @@
+{
+  "name": "realdecoy-programming-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lopocode/realdecoy-programming-challenge.git"
+  },
+  "author": "Phillip Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lopocode/realdecoy-programming-challenge/issues"
+  },
+  "homepage": "https://github.com/lopocode/realdecoy-programming-challenge#readme",
+  "dependencies": {
+    "playwright": "^1.33.0"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.33.0",
+    "playwright-core": "^1.33.0"
+  }
+}
